@@ -1,0 +1,1 @@
+COPY zipcode_urbanity (zip, is_urban) FROM '/Users/abelshakespeare/Documents/GitHub/Epidemic-Coverage-Insights-SQL-Python-Tableau/data/processed/uszipsProcessed.csv' WITH (FORMAT CSV);

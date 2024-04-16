@@ -1,3 +1,11 @@
 SQLAlchemy>=1.4
 psycopg2-binary
 pandas
+matplotlib
+seaborn
+numpy
+folium
+scipy
+statsmodels
+scikit-learn
+ipykernel
